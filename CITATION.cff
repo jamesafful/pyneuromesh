@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use PyNeuroMesh in your research, please cite this work."
+title: "PyNeuroMesh: Neural Signed Distance Fields for Adaptive Meshing"
+authors:
+  - family-names: Afful
+    given-names: James
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0000-0001-6967-1740" 
+date-released: 2024-06-01
+version: "0.1"
+repository-code: "https://github.com/jamesafful/pyneuromesh"
+
