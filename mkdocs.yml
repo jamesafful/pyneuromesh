@@ -1,0 +1,30 @@
+site_name: PyNeuroMesh
+site_description: Differentiable Neural Mesh Generation Framework
+site_url: https://jamesafful.github.io/pyneuromesh
+
+repo_url: https://github.com/jamesafful/pyneuromesh
+repo_name: jamesafful/pyneuromesh
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - Usage: usage.md
+  - Examples: examples.md
+  - Architecture: architecture.md
+
+markdown_extensions:
+  - codehilite
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
